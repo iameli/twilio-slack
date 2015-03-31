@@ -1,0 +1,17 @@
+{
+  "name": "twilio-slack",
+  "version": "1.0.0",
+  "description": "Get Twilio messages in your slack channel",
+  "main": "twilio-slack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Mallon",
+  "license": "Unlicense",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "morgan": "^1.5.2",
+    "request-json": "^0.5.2"
+  }
+}
